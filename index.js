@@ -1,2 +1,3 @@
-console.log("Benjamas")
+console.log("TEST config")
+console.log("Benjanas")
 
